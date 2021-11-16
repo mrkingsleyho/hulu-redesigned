@@ -45,7 +45,7 @@ h4 {
 /* Header */
 .header {
   height: 600px;
-  background: url(./images/header.jpg) no-repeat center center / cover;
+  background: url(/images/header.jpg) no-repeat center center / cover;
   clip-path: polygon(0 0, 1600px 0, 1600px 67%, 0 100%);
 }
 
